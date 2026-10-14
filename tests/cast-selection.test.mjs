@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import ts from 'typescript';
+const source=await fs.readFile(new URL('../app/lib/cast-selection.ts',import.meta.url),'utf8');
+const code=ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
+const {normalizeCastSelection,toggleCastSelection}=await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'));
+const roster=['p1','p2','p3','p4','p5','p6','p7'];
+test('manual cast removes duplicate and stale roster IDs without changing selected order',()=>{assert.deepEqual(normalizeCastSelection(['p3','old','p1','p3','p5'],roster,6),['p3','p1','p5']);});
+test('five and six writer bounds prevent additional selections but always permit deselection',()=>{for(const count of [5,6]){const chosen=roster.slice(0,count);assert.deepEqual(toggleCastSelection(chosen,'p7',roster,count),chosen);assert.deepEqual(toggleCastSelection(chosen,'p2',roster,count),chosen.filter(id=>id!=='p2'));}});
+test('reducing six writers to five preserves the first five and rejects non-roster IDs',()=>{assert.deepEqual(normalizeCastSelection(roster.slice(0,6),roster,5),roster.slice(0,5));assert.deepEqual(toggleCastSelection(['p1'],'foreign',roster,6),['p1']);});
+test('a replacement roster drops previous choices before admitting a new writer',()=>{assert.deepEqual(toggleCastSelection(['p1','p2'],'new1',['new1','new2'],5),['new1']);});

@@ -1,0 +1,1339 @@
+{
+  "version": 1,
+  "canonical": {
+    "deathTime": "21:17",
+    "alarmTime": "21:19"
+  },
+  "entries": [
+    {
+      "id": "curated-threshold-001",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "From the threshold, the laboratory stretches into separate islands of pale light.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-002",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "A thin reflection follows the doorframe beside the edge of my view.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-003",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The nearest floor tiles look warmer than the distant strip beneath the benches.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-004",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "Overlapping reflections make the glass partition seem deeper than the room beyond.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-005",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The edge of the entrance divides the laboratory into light and shadow.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-006",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "From this angle, the ceiling lights become pale bars across the polished floor.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-007",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "A narrow band of brightness outlines the frame beside the laboratory entrance.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-008",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The far wall appears flattened by light while the foreground remains sharply textured.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-009",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "My view settles between the dark doorway and the softly lit work surfaces.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-010",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The room reveals its shapes gradually, from the closest tile to the distant bench.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-011",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The doorframe has a dull finish beside the brighter grain of the adjacent wall.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-012",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "A metal corner catches the light just below the level of my view.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-013",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The nearest glass panel carries a faint reflection of the ceiling above.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-014",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The threshold strip forms a straight silver line across the darker floor.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-015",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "A patch of pale paint softens the angular outline of the entrance.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-016",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "Fine lines in the wall finish become visible where the overhead light reaches them.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-017",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The glass beside the doorway looks almost colorless against the darker interior.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-018",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The nearest bench appears as a clean rectangle behind the edge of the frame.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-019",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "A small patch of reflected light sits near the base of the doorframe.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-threshold-020",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The floor beyond the threshold carries a softly segmented reflection of the laboratory lights.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-001",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "At bench height, every ordinary surface seems closer and more sharply defined.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-002",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "Pale reflections gather around the glass while the work surface remains subdued.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-003",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "From my position, the bench forms a narrow stage beneath the overhead light.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-004",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "The bright edge of the worktop contrasts with the shadow beneath it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-005",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "Small differences in texture stand out across the otherwise orderly laboratory bench.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-006",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "The view narrows to glass, metal, and the soft reflection between them.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-007",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "A band of overhead light stretches across the work surface without revealing detail.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-008",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "The bench looks cool and flat beneath a shallow wash of mint light.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-009",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "The surrounding room recedes behind the brighter outline of the work area.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-010",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "My view follows the clean border between the worktop and its darker edge.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-011",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The curve of the glass catches a thin crescent from the overhead light.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-012",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The tray has a brushed finish that changes shade across its surface.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-013",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "A pale reflection gathers at the base of an otherwise ordinary piece of glassware.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-014",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The edge of the work surface shows a fine line of reflected brightness.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-015",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The shallow tray appears darker in its center than along its metal rim.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-016",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "A glass silhouette overlaps the straight reflection of the light above it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-017",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The bench surface shows a muted pattern beneath the brighter shapes of the equipment.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-018",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The metal rim casts a thin shadow onto the surface directly below.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-019",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The rounded glass edge bends the pale reflection into a narrow arc.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-preparation-020",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "A small reflection rests between the tray and the straight edge of the bench.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-001",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The view turns toward a place where light meets the edge of shadow.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-002",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "A harder patch of brightness divides the surrounding surfaces into separate shapes.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-003",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "From this position, the familiar room seems briefly reduced to corners and reflections.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-004",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The surrounding space looks wider when the closest objects fall outside my view.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-005",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "A narrow view of the wall leaves the rest of the laboratory unseen.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-006",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "Light across the nearby equipment makes its outline more prominent than its details.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-007",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The composition changes from a broad room to a tight arrangement of surfaces.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-008",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The nearest edge becomes sharp while the farther part of the room softens.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-009",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "A darker foreground shape frames the brighter stretch of wall beyond it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-010",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "My view rests on the small gap between the wall and nearby equipment.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-011",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The camera housing has a plain surface beneath the reflection of the ceiling.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-012",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "A small metal bracket forms a neat angle against the adjacent wall.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-013",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The cable covering appears as a dark line beside the lighter panel.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-014",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "A reflective corner draws a bright boundary around part of the equipment housing.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-015",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The surface of the wall panel has a different sheen from its frame.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-016",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The edge of the camera housing forms a compact shape against the wall.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-017",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "A screw head catches a tiny point of light on the metal bracket.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-018",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The panel border looks almost black beside the pale surface within it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-019",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "A shallow seam runs around the equipment housing without exposing its contents.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-interruption-020",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The wall fixture casts a small, steady shadow beneath its lower edge.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-001",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "Close to the surface, ordinary textures become a collection of unfamiliar shapes.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-002",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "A shallow reflection separates the foreground from the darker edge beyond it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-003",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "The view lingers on a small area while the wider room remains outside it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-004",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "Details seem larger from this angle, though the meaning remains out of view.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-005",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "The brightest part of the surface is also the hardest part to read.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-006",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "A narrow patch of light turns the nearby edge into a crisp outline.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-007",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "From here, the difference between metal and paper is mostly a difference in reflection.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-008",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "The surrounding shadows frame a small stretch of otherwise unremarkable work surface.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-009",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "My view stays close enough to show texture without revealing the larger arrangement.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-010",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "The foreground appears precise while everything beyond it becomes a softer background.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-011",
+      "slot": "trace",
+      "kind": "object",
+      "text": "The edge of the paper has a pale line against the darker surface.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-012",
+      "slot": "trace",
+      "kind": "object",
+      "text": "A rounded metal edge carries a short reflection from the light above.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-013",
+      "slot": "trace",
+      "kind": "object",
+      "text": "The paper surface looks matte beside the sheen of the adjacent worktop.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-014",
+      "slot": "trace",
+      "kind": "object",
+      "text": "A fold in the paper makes a small ridge of light and shadow.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-015",
+      "slot": "trace",
+      "kind": "object",
+      "text": "The corner of the tray frames a plain section of the surface below.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-016",
+      "slot": "trace",
+      "kind": "object",
+      "text": "A piece of glass turns the background light into a narrow distorted line.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-017",
+      "slot": "trace",
+      "kind": "object",
+      "text": "The outer edge of the object looks sharper than the reflection beside it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-018",
+      "slot": "trace",
+      "kind": "object",
+      "text": "The paper corner has a different shade where it curves away from the light.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-019",
+      "slot": "trace",
+      "kind": "object",
+      "text": "A thin metal border separates two surfaces with noticeably different textures.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-trace-020",
+      "slot": "trace",
+      "kind": "object",
+      "text": "The nearby surface carries a faint reflection without making its surroundings distinct.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-001",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The corridor stretches ahead as a sequence of light, doorframes, and darker intervals.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-002",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "From my position, the far end of the passage looks flatter than the foreground.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-003",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The floor carries the ceiling lights in short, uneven bands of reflection.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-004",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "Doorframes divide the passage into rectangles that become smaller in the distance.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-005",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The laboratory light meets the corridor light along a soft border on the floor.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-006",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The passage looks wider between the darker frames of the neighboring rooms.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-007",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "A pale stripe along the wall guides the view toward the distant corner.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-008",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The corridor offers long straight lines after the crowded shapes of the work area.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-009",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The nearest wall is sharply textured while the opposite side appears almost smooth.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-010",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "My view follows the junction where the pale wall meets the darker floor.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-011",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The floor tiles form a regular pattern beneath the overhead strips of light.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-012",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "A wall sign appears edge on, with its lettering outside the visible angle.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-013",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The base of the doorframe casts a short shadow across the nearest tile.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-014",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "A narrow metal strip marks the border between the corridor and the room.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-015",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The wall finish catches a little more light around the corner of the frame.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-016",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "A glass partition reflects the passage as a second, softer line of shapes.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-017",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The corner trim has a brighter edge than the flat wall beside it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-018",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The floor reflects a pale rectangle beneath the nearest overhead fixture.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-019",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "A low wall panel repeats the same muted color as the surrounding doorframes.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-corridor-020",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The corridor surface changes texture just beyond the edge of the laboratory threshold.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-001",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "The laboratory becomes a smaller arrangement of shapes at the edge of my view.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-002",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "The nearest doorway frames a final narrow slice of the brighter room beyond.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-003",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "From farther away, the work surfaces lose definition and become a collection of simple outlines.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-004",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "The foreground fills more of the view while the distant laboratory appears flatter.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-005",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "A strip of reflected light connects the near threshold with the room behind it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-006",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "The angle leaves most of the laboratory beyond the edge of the frame.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-007",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "The doorway makes the familiar room look like a small picture within the passage.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-008",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "The bright interior and darker foreground meet along the straight edge of the doorframe.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-009",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "My view holds the doorway for a moment, with the rest of the room unseen.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-010",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "The distance reduces the bench and its surroundings to a few muted blocks of color.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-011",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The outer surface of the frame has a duller finish than its inner edge.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-012",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The threshold catches a pale reflection from the room on its other side.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-013",
+      "slot": "departure",
+      "kind": "object",
+      "text": "A strip of metal at floor level marks the boundary between the two spaces.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-014",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The corner of the wall appears brighter than the broad surface beside it.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-015",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The doorway edge overlaps the distant outline of the laboratory worktop.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-016",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The floor near the frame carries a softer reflection than the tiles farther inside.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-017",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The glass panel shows a faint version of the doorway from a different angle.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-018",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The upper frame makes a dark horizontal line above the pale laboratory light.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-019",
+      "slot": "departure",
+      "kind": "object",
+      "text": "A narrow gap in the composition leaves only part of the far wall visible.",
+      "source": "curated"
+    },
+    {
+      "id": "curated-departure-020",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The nearest wall texture remains clear while the laboratory surfaces recede into the background.",
+      "source": "curated"
+    },
+    {
+      "id": "local-preparation-2365cc2540dc",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "Shadows cast by shallow reflections on glass curves, metal tray, worktop textures.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-8467c61c2d2e",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "Light from the workbench reflects off glass curves, metal tray, worktop surfaces.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-69ccdaf672b3",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "A sleek camera housing, its reflective surface subtly reflecting the wall shadows.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-c17aab9d41da",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The casing is adorned with subtle textures that contrast against the cold, metallic surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-30816ee588a7",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The bracket holds the fixture securely, its border blending seamlessly with the wall's surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-2d66033bd5d5",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The fixture's casing is adorned with intricate, shallow reflections, highlighting its metallic finish.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-db489e646454",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "A polished metal table edge, smooth and slick, casting deep shadows and highlighting the angles of reflection from its surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-542dae2f8bd6",
+      "slot": "trace",
+      "kind": "object",
+      "text": "A glass pane, slightly tinted to reduce glare, revealing a depth of light and shadow, with edges that cast shallow reflections onto the surrounding surfaces.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-ed6898381f52",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The walls are textured, with subtle patterns and shadows that dance.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-76f938f854f6",
+      "slot": "departure",
+      "kind": "object",
+      "text": "Shallow reflections shimmer on glass and polished surfaces, reflecting the distant glow.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-3060cc6de37e",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "Intricate textures glow softly in the shallow reflections, highlighting the laboratory's serene atmosphere.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-5311934c7a01",
+      "slot": "departure",
+      "kind": "object",
+      "text": "Shallow reflections mirror the distant surfaces, creating a dreamlike appearance in the foreground frame.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-0ee4e318d9ac",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "A subtle play of shallow reflections highlights the laboratory's pristine surfaces, emphasizing the moment's tranquility.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-7b796199389e",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The glass partitions shimmer with the soft glow of distant lights.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-f781c40ff563",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The textured walls are a stark contrast against the smooth floor beneath.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-07a066fbbfad",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "A narrow band of light follows the metal rim beside the work surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-33b064c90475",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "The glass curves reflect the ambient light, creating a play of shadows and highlights.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-3590e1879643",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The worktop textures vary, from smooth to textured, enhancing the contrast and depth.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-41192c2db1ee",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The stark, matte finish of the wall fixture contrasts against the warm ambient light.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-9aac5c49efbf",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The metal casing of the camera housing is adorned with subtle textures, reflecting distant shadows.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-54bea9620d83",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The shadowy border of the housing is punctuated by faint light sources, creating an eerie glow.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-2c4b516ba1e8",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The reflective surface of the casing is dotted with small, circular patterns, adding depth to the otherwise smooth texture.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-8c8a0fd311f6",
+      "slot": "trace",
+      "kind": "object",
+      "text": "An ethereal glow casts long shadows across the polished metal.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-0f76840d3bb8",
+      "slot": "trace",
+      "kind": "object",
+      "text": "Depth and texture are emphasized in the crinkled paper, highlighting the corners.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-ee934850f578",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "Silent reflections on the smooth surface of a metal tray outline the room's geometry.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-6967eebb91b0",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The pale doorway frames a muted reflection along the edge of the laboratory floor.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-28724d4941b8",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "A series of geometric patterns on the floor, intricate and repetitive.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-c032e7d46ace",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The distant surfaces are bathed in a soft, ambient glow.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-e336234fa144",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "Foreground textures contrast sharply with the distant, dimly lit background.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-2cb45c2361ae",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The soft glow of the overhead lights casts gentle shadows on the polished surfaces, creating a serene yet slightly dim atmosphere.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-77ea90dd5748",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "A narrow strip of light highlights the metal rim beside the workbench, drawing attention to the sharp, hard edges that define the laboratory space.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-b2819ed987a1",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "My soft shadows outline the metallic border of the camera housing.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-c168b95924fa",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "A hard edge of light catches the casing's sharp corners.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-1e6da48d203e",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The casing's texture contrasts with the smooth surface of the wall.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-ea18c3fac339",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The wall shadows create soft edges around the housing's perimeter.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-a7e2ce27758e",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "A narrow band of light follows the metal rim beside the work surface, casting shadows that dance in the soft, ambient glow.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-f5be1e620f51",
+      "slot": "trace",
+      "kind": "object",
+      "text": "The soft, gentle edge of the material contrasts sharply with the hard, angular edges of the metal, creating a subtle, almost imperceptible tension.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-cd4f9b2c72f8",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The narrow light band follows the metal rim, casting soft shadows on the work surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-f7212fe52ccf",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "The textured floor patterns shift subtly underfoot, revealing the hard edges of the laboratory walls.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-c3807e27ade2",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The walls are lined with soft, pastel hues that contrast with the harsh angles of the metal frames.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-c838c123bd35",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The ceiling is high, with a bright, reflective surface that casts a shimmering glow across the room.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-24cde8941251",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The glass curves reflect the dim overhead lights, casting an ethereal glow over the metal tray and worktop surfaces.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-e2f44add7df9",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "The uneven textures of the metal tray and worktop contrast sharply with the smooth glass curves, creating a stark visual contrast.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-61cb8478d504",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The narrow band of reflected light follows the metal rim, highlighting the precision of the laboratory bench, while the textured surfaces add depth and dimension.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-e9592a498376",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The casing glows faintly in the low light of the lab.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-425402ca0c78",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The texture of the metal contrasts sharply with the matte wall shadows.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-397e0e153a76",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The narrow band of light highlights the metal rim, making it stand out.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-ec3826312748",
+      "slot": "trace",
+      "kind": "object",
+      "text": "My narrow band of light follows the metal rim beside the work surface, casting a stark contrast against the deep shadows.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-472cc6cb4739",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "A pale doorway frames the reflection along the edge of the laboratory floor, contrasting the warm tones with the cool light.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-2a7ef7b5e757",
+      "slot": "trace",
+      "kind": "object",
+      "text": "A narrow band of light follows the metal rim beside the work surface, highlighting the sharp edges of the materials.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-bd5f25eb5cab",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "The edges of the materials contrast with the deep shadows, creating a sense of depth and perspective.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-29d5d49d009d",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The cold metal doorframe casts an eerie glow on the polished concrete walls beyond, stark against the dark, dim interior.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-042a56ead96a",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "The contrast between the smooth, polished surfaces and the rough, textured floors adds layers of depth and interest to the laboratory space.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-4c48cc9a0b9d",
+      "slot": "departure",
+      "kind": "atmosphere",
+      "text": "A contrasting band of light reflects off the polished concrete.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-d110ee2b2900",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The textures of metal and glass blend into the background.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-51840cacb252",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "The door's shadow stretches wide, casting an uneven light on the floor.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-3cfe84f5f7cc",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "The glass partition's edge catches a flash of ambient light.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-c0028a06b88a",
+      "slot": "threshold",
+      "kind": "atmosphere",
+      "text": "Ceiling lights reflect off the smooth ceiling, highlighting the room's depth.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-threshold-62bba9204854",
+      "slot": "threshold",
+      "kind": "object",
+      "text": "Soft glow filters through the narrow band of light beside the work surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-9ee8b6ebc044",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The glass curves reflect the ambient light, creating a shimmering surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-c2deb14bbbec",
+      "slot": "preparation",
+      "kind": "object",
+      "text": "The narrow band of light follows the metal rim, illuminating the worktop.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-preparation-297c6db23494",
+      "slot": "preparation",
+      "kind": "atmosphere",
+      "text": "The surfaces are uneven, with textures that contrast under reflected light.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-110e4204b917",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "A close-up of the wall fixture's casing, showing the textured surface and shadowed border.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-9be431e443c8",
+      "slot": "interruption",
+      "kind": "atmosphere",
+      "text": "The casing of the camera housing is illuminated by the ambient light, highlighting the smooth, reflective surface.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-interruption-498fb7913339",
+      "slot": "interruption",
+      "kind": "object",
+      "text": "The light casts a shadow on the metal bracket, emphasizing the contrast between the surfaces.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-25b72d7027a2",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "A narrow band of light follows the metal rim beside the work surface, casting deep shadows on the paper, emphasizing the depth of the scene.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-trace-08ea71525615",
+      "slot": "trace",
+      "kind": "atmosphere",
+      "text": "The light reflects off the glass vials, creating a shimmering surface that highlights the precision of the laboratory's work.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-21f9737c1b71",
+      "slot": "corridor",
+      "kind": "atmosphere",
+      "text": "Light dances across the floor, casting shadows in intriguing patterns.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-corridor-e0314c9614ec",
+      "slot": "corridor",
+      "kind": "object",
+      "text": "Perspectives converge at the doorframes, creating a sense of enclosure.",
+      "source": "local-qwen"
+    },
+    {
+      "id": "local-departure-2ee479d9b289",
+      "slot": "departure",
+      "kind": "object",
+      "text": "The light reflects off the polished metal surface with a shimmer.",
+      "source": "local-qwen"
+    }
+  ]
+}

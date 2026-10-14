@@ -1,0 +1,13 @@
+/* The role signal exists only in the authenticated writer's private HUD/workspace. */
+.game-status .private-role-badge{display:inline-flex;align-items:center;gap:5px;flex-shrink:0;border:1px solid #6eafa4;background:#12372f;color:#e1eee1;padding:5px 7px;font:700 11px/1.1 monospace;cursor:pointer;min-height:28px}
+.game-status .private-role-badge small{font-size:8px;font-weight:400;opacity:.8}
+.game-status .private-role-badge.is-culprit{background:#4d202a;border-color:#ef9097;color:#fff0ee}
+.private-role-badge:focus-visible{outline:2px solid #f5df9d;outline-offset:3px}
+.private-assignment-note{display:flex;gap:10px;align-items:flex-start;padding:14px 16px;border:1px solid #649b90;background:#18392f;color:#e0eae3;margin-bottom:20px;font-size:13px;line-height:1.6}
+.private-assignment-note.is-culprit{border-color:#db838b;background:#422029;color:#fff0ee}
+.private-assignment-note svg{flex-shrink:0;margin-top:3px}
+@media(max-width:650px){.game-status:has(.private-role-badge){gap:7px}.game-status:has(.private-role-badge)>span:not(.status-engine){font-size:8px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.game-status .private-role-badge{font-size:10px;padding:4px 5px;gap:4px}.game-status .private-role-badge small{display:none}}
+
+.game-status:has(.private-role-badge){height:34px;min-height:34px}
+
+.first-time-tutorial{position:absolute;z-index:70;top:72px;left:16px;width:min(370px,calc(100% - 32px));max-height:calc(100dvh - 190px);overflow:auto;padding:20px;background:#142e32f7;border:2px solid #c7cbae;box-shadow:4px 5px #07141fcc;color:#e5e8d8;font-family:monospace}.first-time-tutorial h2{font-size:19px;line-height:1.3;margin:9px 20px 14px 0}.first-time-tutorial ol{padding-left:22px;margin:0 0 14px}.first-time-tutorial li{padding-left:3px;margin:0 0 13px;font-size:13px;line-height:1.5}.first-time-tutorial li p{margin:4px 0 0;color:#bfd1c9;font-size:13px;line-height:1.5}.first-time-tutorial .tutorial-close{position:absolute;right:9px;top:9px;padding:5px;color:#d5dfd2;background:transparent;border:0}.first-time-tutorial .eyebrow{font-size:9px}.first-time-tutorial .button-row{gap:14px}.first-time-tutorial .button{min-height:34px;padding:8px 12px}.first-time-tutorial .subtle-action{font-size:12px}@media(max-width:420px){.first-time-tutorial{top:64px;padding:16px}.first-time-tutorial h2{font-size:18px}.first-time-tutorial li,.first-time-tutorial li p{font-size:12px}}

@@ -1,0 +1,74 @@
+{
+  "reserved": [
+    "I'll keep this brief.",
+    "Just the facts, then.",
+    "One thing at a time.",
+    "I can answer that.",
+    "Here's what I can tell you.",
+    "I'll keep this brief.",
+    "Only what I remember."
+  ],
+  "gruff": [
+    "Fine. Here's my answer.",
+    "Let's be precise.",
+    "Ask directly. I'll answer.",
+    "No need to repeat yourself.",
+    "All right. Stick to the facts.",
+    "You want my account? Here it is.",
+    "Let's not turn a guess into a fact."
+  ],
+  "precise": [
+    "Let me be exact.",
+    "The distinction matters.",
+    "Carefully, now.",
+    "I'll stick to what I know.",
+    "Here's the part I can account for.",
+    "I should be precise about this.",
+    "Let's keep observation separate from inference."
+  ],
+  "warm": [
+    "Of course. I'll explain.",
+    "Take your time. I'm listening.",
+    "Let me help with that.",
+    "I'll tell you what I can.",
+    "I'll help as far as I can.",
+    "Let's go through what I know.",
+    "Of course. One detail at a time."
+  ],
+  "anxious": [
+    "Give me a moment.",
+    "I need to be careful here.",
+    "Please hear me out.",
+    "I'll try to explain clearly.",
+    "Let me put this carefully.",
+    "I want to get this right.",
+    "I can only tell you what I know."
+  ],
+  "confident": [
+    "Let's get straight to it.",
+    "I'll be direct.",
+    "Here is my answer.",
+    "Listen closely.",
+    "I'll give you a straight answer.",
+    "Let's focus on what can be checked.",
+    "Here is what I can account for."
+  ],
+  "formal": [
+    "For clarity.",
+    "Let us be specific.",
+    "I'll answer precisely.",
+    "For the record.",
+    "I can clarify my account.",
+    "Allow me to be specific.",
+    "The relevant detail is this."
+  ],
+  "curious": [
+    "That's worth examining.",
+    "Let's take that apart.",
+    "An interesting question.",
+    "Let's follow that thought.",
+    "Let's examine that detail.",
+    "Here's the part we can check.",
+    "Let's separate what fits from what is known."
+  ]
+}
